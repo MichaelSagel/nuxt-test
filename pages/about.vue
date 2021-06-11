@@ -2,7 +2,7 @@
 
     <div class="container-bady">
 
-      <router-link class="button-bady createNewAccaunt" to="/">Back</router-link>
+      <nuxt-link class="button-bady createNewAccaunt" to="/">Back</nuxt-link>
 
     </div>
 
@@ -12,7 +12,7 @@
 <script> 
 
   /*
-  import containerBodyButton from './containerBodyButton.vue'
+  import containerBodyButton from './../containerBodyButton.vue'
   */
 
   export default {

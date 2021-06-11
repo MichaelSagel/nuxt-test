@@ -3,7 +3,7 @@
   <div class="info">
 
     <div class="virtex">
-        Virtex
+        Sagel
     </div>
 
     <div class="text-info">
